@@ -107,9 +107,4 @@ photo.addEventListener("click",()=>{
 photo.classList.toggle("zoom");
 
 });
-    .zoom{
-transform:scale(1.3);
-z-index:99;
-position:relative;
-transition:.4s;
-}
+  
